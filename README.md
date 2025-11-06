@@ -74,7 +74,7 @@
       <br/>
       <b>팀원 [구슬기]</b>
       <br/>
-      <sub>개발/맡은 일 채워넣기</sub>
+      <sub>개발/UI , SFX , 미니맵 ,스태미너 , 플레이어 골드 </sub>
       <br/>
       <a href="https://github.com/sulg16">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
