@@ -16,7 +16,7 @@
       <br/>
       <b>기획팀장 [박용규]</b>
       <br/>
-      <sub>기획/맡은 일 채워넣기</sub>
+      <sub>기획/기획서 작성 & 수정 , 후반 일정관리 , 총무 , QA , 유저 테스트 문서화</sub>
       <br/>
       <a href="https://github.com/dragonk1631/">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
@@ -26,7 +26,7 @@
       <br/>
       <b>팀원 [황의영]</b>
       <br/>
-      <sub>기획/콘텐츠 기획, 밸런스 기획</sub>
+      <sub>기획/콘텐츠 기획, 밸런스 기획 , QA</sub>
       <br/>
       <a href="https://github.com/i1i1i1i1ii1i/">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
@@ -54,7 +54,7 @@
       <br/>
       <b>팀원 [김우민]</b>
       <br/>
-      <sub>개발/맡은 일 채워넣기</sub>
+      <sub>개발/NPC , 퀘스트 , 상점 , 다이얼로그</sub>
       <br/>
       <a href="https://github.com/woomin0011">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
