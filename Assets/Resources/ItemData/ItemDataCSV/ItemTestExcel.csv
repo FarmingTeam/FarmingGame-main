@@ -1,0 +1,6 @@
+﻿아이템ID(번호),아이템 이름,아이템 설명,경로(아이템 파일명),아이템 타입,최대 수량
+1001,당근 씨앗,당근 씨앗이다,CarrotSeed,Seed,10
+1002,호박 씨앗,호박 씨앗 이다,PumpkinSeed,Seed,10
+3,초록이,초록이이다,Green,Others,1
+2001,당근,당근이다,CarrotCrop,Others,10
+2002,호박,호박이다,PumpkinCrop,Others,10

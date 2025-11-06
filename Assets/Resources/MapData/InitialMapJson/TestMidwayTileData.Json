@@ -1,0 +1,927 @@
+{
+  "MapSize": [ 80, 42 ],
+
+  "TileFloor": [
+  ],
+
+  "TileObject": [
+    {
+      "Pos": [
+        8,
+        29
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        8,
+        38
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        9,
+        33
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        12,
+        31
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        13,
+        22
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        15,
+        16
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        15,
+        25
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        17,
+        23
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        18,
+        18
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        18,
+        33
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        20,
+        21
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        21,
+        13
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        21,
+        29
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        22,
+        34
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        22,
+        38
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        23,
+        17
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        25,
+        26
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        26,
+        32
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        26,
+        37
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        27,
+        3
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        27,
+        14
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        29,
+        23
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        30,
+        6
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        30,
+        28
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        30,
+        35
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        32,
+        11
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        32,
+        33
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        33,
+        22
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        35,
+        28
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        38,
+        23
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        38,
+        32
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        39,
+        4
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        41,
+        13
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        41,
+        25
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        42,
+        4
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        42,
+        33
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        43,
+        29
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        44,
+        16
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        45,
+        26
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        46,
+        13
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        47,
+        31
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        48,
+        17
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        48,
+        34
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        50,
+        13
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        50,
+        29
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        53,
+        17
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        54,
+        27
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        54,
+        33
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        55,
+        13
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        55,
+        19
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        57,
+        29
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        58,
+        16
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        59,
+        12
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        59,
+        35
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        61,
+        32
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        63,
+        21
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        63,
+        37
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        66,
+        38
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        67,
+        22
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        67,
+        35
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        69,
+        31
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        71,
+        21
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        71,
+        33
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        71,
+        37
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        74,
+        24
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        75,
+        35
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        78,
+        25
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        78,
+        38
+      ],
+      "ChunkType": 55
+    },
+    {
+      "Pos": [
+        11,
+        35
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        11,
+        38
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        14,
+        28
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        16,
+        21
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        17,
+        38
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        20,
+        35
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        20,
+        38
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        21,
+        18
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        21,
+        32
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        24,
+        29
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        24,
+        32
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        25,
+        35
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        26,
+        14
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        26,
+        16
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        27,
+        25
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        27,
+        29
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        28,
+        10
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        29,
+        32
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        30,
+        10
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        31,
+        13
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        32,
+        25
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        34,
+        26
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        35,
+        32
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        36,
+        24
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        39,
+        27
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        41,
+        7
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        42,
+        10
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        43,
+        15
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        43,
+        26
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        48,
+        27
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        51,
+        17
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        51,
+        32
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        52,
+        27
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        54,
+        30
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        58,
+        32
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        59,
+        21
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        60,
+        30
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        61,
+        21
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        64,
+        31
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        65,
+        34
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        66,
+        19
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        66,
+        22
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        67,
+        32
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        70,
+        22
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        74,
+        34
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        76,
+        26
+      ],
+      "ChunkType": 43
+    }
+  ],
+
+  "TileSeed": [
+  ],
+  "RandomChunkGenMushroomHarvest": [ -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1 ],
+  "RandomChunkGenFlowerHarvest": [ -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1 ],
+  "RandomChunkGenWeedHarvest": [ -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1 ],
+  "RandomChunkGenRockHarvest": [ -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1 ],
+  "LastUpdate": 1
+}

@@ -1,0 +1,32 @@
+{
+  "MapSize": [ 43, 43 ],
+
+  "TileFloor": [
+  ],
+
+  "TileObject": [
+    {
+      "Pos": [
+        11,
+        10
+      ],
+      "ChunkType": 102
+    },
+
+    {
+      "Pos": [
+        40,
+        35
+      ],
+      "ChunkType": 220
+    }
+  ],
+
+  "TileSeed": [
+  ],
+  "RandomChunkGenMushroomHarvest": [],
+  "RandomChunkGenFlowerHarvest": [],
+  "RandomChunkGenWeedHarvest": [],
+  "RandomChunkGenRockHarvest": [],
+  "LastUpdate": 1
+}

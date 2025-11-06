@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0424ccac18fd1934c8ca250507ce1d00, type: 3}
+  m_Name: DoorToHouse
+  m_EditorClassIdentifier: 
+  chunkType: 100
+  interactionType: 08000000
+  tileBases:
+  - Tiles:
+    - {fileID: 11400000, guid: 4b05ba355e6bb3e4886bbe6c5bb89025, type: 2}
+  Destination: {x: 4, y: 1}

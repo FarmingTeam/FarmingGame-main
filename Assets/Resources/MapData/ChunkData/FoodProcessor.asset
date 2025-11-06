@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c863da345ad3e754ab3986c7c86dd72b, type: 3}
+  m_Name: FoodProcessor
+  m_EditorClassIdentifier: 
+  chunkType: 200
+  interactionType: 0c0000000c000000
+  tileBases:
+  - Tiles:
+    - {fileID: 11400000, guid: 833901fc46118db4fbb5884fd9f6ea6f, type: 2}
+    - {fileID: 11400000, guid: ac1adc1a54a321342b67f283c50bee27, type: 2}
+  - Tiles:
+    - {fileID: 11400000, guid: 56d8ef90a86d8e14085476273cdc362d, type: 2}
+    - {fileID: 11400000, guid: d7633204d9ec9454784cf44e70bc427b, type: 2}

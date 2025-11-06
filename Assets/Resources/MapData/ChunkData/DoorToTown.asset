@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0424ccac18fd1934c8ca250507ce1d00, type: 3}
+  m_Name: DoorToTown
+  m_EditorClassIdentifier: 
+  chunkType: 103
+  interactionType: 08000000
+  tileBases:
+  - Tiles:
+    - {fileID: 11400000, guid: 6289223b3f591cc488fa56cd90864563, type: 2}
+  - Tiles:
+    - {fileID: 11400000, guid: b6c50ce6c661ad74d8bc31d96b29d965, type: 2}
+  Destination: {x: 12, y: 9}

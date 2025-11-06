@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c863da345ad3e754ab3986c7c86dd72b, type: 3}
+  m_Name: Tree BigComplete
+  m_EditorClassIdentifier: 
+  chunkType: 55
+  interactionType: 020000000200000000000000
+  tileBases:
+  - Tiles:
+    - {fileID: 11400000, guid: d8812b71515528b4e9f52e1ba2cf4d2b, type: 2}
+    - {fileID: 11400000, guid: 2024bbb1b73193c44a333d181ed093ab, type: 2}
+    - {fileID: 11400000, guid: fd87dec8d028b1a4983424d293320ee2, type: 2}
+  - Tiles:
+    - {fileID: 11400000, guid: 7617a592b744acc488002d0ee55c0e87, type: 2}
+    - {fileID: 11400000, guid: 05eb2366db775614d9bb4d72bcc3ed84, type: 2}
+    - {fileID: 11400000, guid: f8734c4a8ad58ba4a8a8a72b18c5d383, type: 2}

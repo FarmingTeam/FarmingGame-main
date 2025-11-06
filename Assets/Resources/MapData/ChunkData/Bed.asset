@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c863da345ad3e754ab3986c7c86dd72b, type: 3}
+  m_Name: Bed
+  m_EditorClassIdentifier: 
+  chunkType: 150
+  interactionType: 0900000009000000
+  tileBases:
+  - Tiles:
+    - {fileID: 11400000, guid: b9373a0d87b32d04491eca53d5929854, type: 2}
+    - {fileID: 11400000, guid: e1cec8cbf7e42b04cb14d6c19f56813a, type: 2}

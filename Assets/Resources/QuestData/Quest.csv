@@ -1,0 +1,13 @@
+QuestID,QuestName,QuestReward,QuestGiverId,Unlock,Action,Target,Count
+Q001,농사 튜토리얼,"10001 10002 10003 10004 10005 10006",N001,,Talk,N001,1
+Q002,낚시의 첫걸음,500G,N002,Q011,Deliver,1101~1106,1
+Q003,푸드트럭 재료구하기,"500G 3001 Popul +5",N005,Q001,Deliver,2010,3
+Q004,요리하기,"500G 3001 Popul +5",N005,Q055,Minigame,,3
+Q005,가게보기,"500G 3001 Popul +5",N005,Q004,Talk,,5
+Q006,목공소 아르바이트,1000G,N009,Q011,Deliver,0003,10
+Q007,목을 지켜라,1000G,N010,Q011,Deliver,2006,3
+Q008,보리가 필요해,1300G,N011,Q011,Deliver,2009,5
+Q009,알록달록,1000G,N006,Q011,Deliver,0101~0103,3
+Q010,먹어도 되나?,1500G,N008,Q011,Deliver,0011~0015,1
+Q011,알렉스는 배고파(1),0G,N014,Q001,Talk,N014,
+Q012,알렉스는 배고파(2),1500G,N014,Q002,Deliver,1101~1106,3

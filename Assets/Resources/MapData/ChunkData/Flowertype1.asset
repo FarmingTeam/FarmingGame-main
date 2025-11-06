@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c863da345ad3e754ab3986c7c86dd72b, type: 3}
+  m_Name: Flowertype1
+  m_EditorClassIdentifier: 
+  chunkType: 61
+  interactionType: 06000000
+  tileBases:
+  - Tiles:
+    - {fileID: 11400000, guid: a923277ff621a534f83d75bb77d2c59a, type: 2}

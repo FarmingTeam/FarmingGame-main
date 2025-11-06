@@ -1,0 +1,11 @@
+ID, 성장시간, 씨앗경로, 줄기경로, 작물경로
+1001,2,GreenPepperSeed,GreenPepperVine,GreenPepperCrop
+1002,2,RedPepperSeed,RedPepperVine,RedPepperCrop
+1003,2,TomatoSeed,TomatoVine,TomatoCrop
+1004,2,CarrotSeed,CarrotVine,CarrotCrop
+1005,2,WasabiSeed,WasabiVine,WasabiCrop
+1006,2,RadishSeed,RadishVine,RadishCrop
+1007,3,TurnipSeed,TurnipVine,TurnipCrop
+1008,3,PumkinSeed,PumkinVine,PumkinCrop
+1009,3,BarleySeed,BarleyVine,BarleyCrop
+1010,3,WheatSeed,WheatVine,WheatCrop

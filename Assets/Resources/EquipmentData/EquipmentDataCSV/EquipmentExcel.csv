@@ -1,0 +1,9 @@
+﻿장비 ID(번호),장비 이름,장비 설명,장비 타입,경로(파일 이름)
+0,빈손,빈손입니다, Empty,Empty
+10001,씨앗바구니,씨앗바구니입니다,SeedBasket,SeedBasket
+10002,도끼,도끼입니다,Axe,Axe
+10003,곡괭이,곡괭이입니다,Pickaxe,Pickaxe
+10004,괭이,괭이입니다,Hoe,Hoe
+10005,물뿌리개,물뿌리개입니다,WateringCan,WateringCan
+10006,낫,낫입니다,Sickle,Sickle
+10007,낚싯대,낚싯대입니다,Fishingrod,Fishingrod

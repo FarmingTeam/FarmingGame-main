@@ -1,0 +1,5139 @@
+{
+  "MapSize": [
+    40,
+    50
+  ],
+  "TileFloor": [
+    {
+      "Pos": [
+        19,
+        13
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        20,
+        13
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        21,
+        13
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        22,
+        13
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        23,
+        13
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        24,
+        13
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        25,
+        13
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        26,
+        13
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        27,
+        13
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        28,
+        13
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        29,
+        13
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        30,
+        13
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        31,
+        13
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        32,
+        13
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        3,
+        14
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        4,
+        14
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        5,
+        14
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        6,
+        14
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        7,
+        14
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        8,
+        14
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        9,
+        14
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        10,
+        14
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        11,
+        14
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        12,
+        14
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        13,
+        14
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        14,
+        14
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        18,
+        14
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        19,
+        14
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        20,
+        14
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        21,
+        14
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        22,
+        14
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        23,
+        14
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        24,
+        14
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        25,
+        14
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        26,
+        14
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        27,
+        14
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        28,
+        14
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        29,
+        14
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        30,
+        14
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        31,
+        14
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        32,
+        14
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        33,
+        14
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        34,
+        14
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        35,
+        14
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        3,
+        15
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        4,
+        15
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        5,
+        15
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        6,
+        15
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        7,
+        15
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        8,
+        15
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        9,
+        15
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        10,
+        15
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        11,
+        15
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        12,
+        15
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        13,
+        15
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        14,
+        15
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        18,
+        15
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        19,
+        15
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        20,
+        15
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        21,
+        15
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        22,
+        15
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        23,
+        15
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        24,
+        15
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        25,
+        15
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        26,
+        15
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        27,
+        15
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        28,
+        15
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        29,
+        15
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        30,
+        15
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        31,
+        15
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        32,
+        15
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        33,
+        15
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        34,
+        15
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        35,
+        15
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        36,
+        15
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        3,
+        16
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        4,
+        16
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        5,
+        16
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        6,
+        16
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        7,
+        16
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        8,
+        16
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        9,
+        16
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        10,
+        16
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        11,
+        16
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        12,
+        16
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        13,
+        16
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        14,
+        16
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        18,
+        16
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        19,
+        16
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        20,
+        16
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        21,
+        16
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        22,
+        16
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        23,
+        16
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        24,
+        16
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        25,
+        16
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        26,
+        16
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        27,
+        16
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        28,
+        16
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        29,
+        16
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        30,
+        16
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        31,
+        16
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        32,
+        16
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        33,
+        16
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        34,
+        16
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        35,
+        16
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        36,
+        16
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        3,
+        17
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        4,
+        17
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        5,
+        17
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        6,
+        17
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        7,
+        17
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        8,
+        17
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        9,
+        17
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        10,
+        17
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        11,
+        17
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        12,
+        17
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        13,
+        17
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        14,
+        17
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        18,
+        17
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        19,
+        17
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        20,
+        17
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        21,
+        17
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        22,
+        17
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        23,
+        17
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        24,
+        17
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        25,
+        17
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        26,
+        17
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        27,
+        17
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        28,
+        17
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        29,
+        17
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        30,
+        17
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        31,
+        17
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        32,
+        17
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        33,
+        17
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        34,
+        17
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        35,
+        17
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        36,
+        17
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        3,
+        18
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        4,
+        18
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        5,
+        18
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        6,
+        18
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        7,
+        18
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        8,
+        18
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        9,
+        18
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        10,
+        18
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        11,
+        18
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        12,
+        18
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        13,
+        18
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        14,
+        18
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        18,
+        18
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        19,
+        18
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        20,
+        18
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        21,
+        18
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        22,
+        18
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        23,
+        18
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        24,
+        18
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        25,
+        18
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        26,
+        18
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        27,
+        18
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        28,
+        18
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        29,
+        18
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        30,
+        18
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        31,
+        18
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        32,
+        18
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        33,
+        18
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        34,
+        18
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        35,
+        18
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        36,
+        18
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        3,
+        19
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        4,
+        19
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        5,
+        19
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        6,
+        19
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        7,
+        19
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        8,
+        19
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        9,
+        19
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        10,
+        19
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        11,
+        19
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        12,
+        19
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        13,
+        19
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        14,
+        19
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        19,
+        19
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        20,
+        19
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        21,
+        19
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        22,
+        19
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        23,
+        19
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        24,
+        19
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        25,
+        19
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        26,
+        19
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        27,
+        19
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        28,
+        19
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        29,
+        19
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        30,
+        19
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        31,
+        19
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        32,
+        19
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        33,
+        19
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        34,
+        19
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        35,
+        19
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        36,
+        19
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        3,
+        20
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        4,
+        20
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        5,
+        20
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        6,
+        20
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        7,
+        20
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        8,
+        20
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        9,
+        20
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        10,
+        20
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        11,
+        20
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        12,
+        20
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        13,
+        20
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        14,
+        20
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        19,
+        20
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        20,
+        20
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        21,
+        20
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        22,
+        20
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        23,
+        20
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        24,
+        20
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        25,
+        20
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        26,
+        20
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        27,
+        20
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        28,
+        20
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        29,
+        20
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        30,
+        20
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        31,
+        20
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        32,
+        20
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        33,
+        20
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        34,
+        20
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        35,
+        20
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        36,
+        20
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        3,
+        21
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        4,
+        21
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        5,
+        21
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        6,
+        21
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        7,
+        21
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        8,
+        21
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        9,
+        21
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        10,
+        21
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        11,
+        21
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        12,
+        21
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        13,
+        21
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        14,
+        21
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        15,
+        21
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        19,
+        21
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        20,
+        21
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        21,
+        21
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        22,
+        21
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        23,
+        21
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        24,
+        21
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        25,
+        21
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        26,
+        21
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        27,
+        21
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        28,
+        21
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        29,
+        21
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        30,
+        21
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        31,
+        21
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        32,
+        21
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        33,
+        21
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        34,
+        21
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        35,
+        21
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        36,
+        21
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        3,
+        22
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        4,
+        22
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        5,
+        22
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        6,
+        22
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        7,
+        22
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        8,
+        22
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        9,
+        22
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        10,
+        22
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        11,
+        22
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        12,
+        22
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        13,
+        22
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        14,
+        22
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        15,
+        22
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        19,
+        22
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        20,
+        22
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        21,
+        22
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        22,
+        22
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        23,
+        22
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        24,
+        22
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        25,
+        22
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        26,
+        22
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        27,
+        22
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        28,
+        22
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        29,
+        22
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        30,
+        22
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        31,
+        22
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        32,
+        22
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        33,
+        22
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        34,
+        22
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        35,
+        22
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        36,
+        22
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        3,
+        23
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        4,
+        23
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        5,
+        23
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        6,
+        23
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        7,
+        23
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        8,
+        23
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        9,
+        23
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        10,
+        23
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        11,
+        23
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        12,
+        23
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        13,
+        23
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        14,
+        23
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        15,
+        23
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        19,
+        23
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        20,
+        23
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        21,
+        23
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        22,
+        23
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        23,
+        23
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        24,
+        23
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        25,
+        23
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        26,
+        23
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        27,
+        23
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        28,
+        23
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        29,
+        23
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        30,
+        23
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        31,
+        23
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        32,
+        23
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        33,
+        23
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        34,
+        23
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        35,
+        23
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        36,
+        23
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        3,
+        24
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        4,
+        24
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        5,
+        24
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        6,
+        24
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        7,
+        24
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        8,
+        24
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        9,
+        24
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        10,
+        24
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        11,
+        24
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        12,
+        24
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        13,
+        24
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        14,
+        24
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        15,
+        24
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        19,
+        24
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        20,
+        24
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        21,
+        24
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        22,
+        24
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        23,
+        24
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        24,
+        24
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        25,
+        24
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        26,
+        24
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        27,
+        24
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        28,
+        24
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        29,
+        24
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        30,
+        24
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        31,
+        24
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        32,
+        24
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        33,
+        24
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        34,
+        24
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        35,
+        24
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        36,
+        24
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        3,
+        25
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        4,
+        25
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        5,
+        25
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        6,
+        25
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        7,
+        25
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        8,
+        25
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        9,
+        25
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        10,
+        25
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        11,
+        25
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        12,
+        25
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        13,
+        25
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        14,
+        25
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        15,
+        25
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        20,
+        25
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        21,
+        25
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        22,
+        25
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        23,
+        25
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        24,
+        25
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        25,
+        25
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        26,
+        25
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        27,
+        25
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        28,
+        25
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        29,
+        25
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        30,
+        25
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        31,
+        25
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        32,
+        25
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        33,
+        25
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        34,
+        25
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        35,
+        25
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        36,
+        25
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        3,
+        26
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        4,
+        26
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        5,
+        26
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        6,
+        26
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        7,
+        26
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        8,
+        26
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        9,
+        26
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        10,
+        26
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        11,
+        26
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        12,
+        26
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        13,
+        26
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        14,
+        26
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        15,
+        26
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        20,
+        26
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        21,
+        26
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        22,
+        26
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        23,
+        26
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        24,
+        26
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        25,
+        26
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        26,
+        26
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        27,
+        26
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        28,
+        26
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        29,
+        26
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        30,
+        26
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        31,
+        26
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        32,
+        26
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        33,
+        26
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        34,
+        26
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        35,
+        26
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        36,
+        26
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        3,
+        27
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        4,
+        27
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        5,
+        27
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        6,
+        27
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        7,
+        27
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        8,
+        27
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        9,
+        27
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        10,
+        27
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        11,
+        27
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        12,
+        27
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        13,
+        27
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        14,
+        27
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        15,
+        27
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        20,
+        27
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        21,
+        27
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        22,
+        27
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        23,
+        27
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        24,
+        27
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        25,
+        27
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        26,
+        27
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        27,
+        27
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        28,
+        27
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        29,
+        27
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        30,
+        27
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        31,
+        27
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        32,
+        27
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        33,
+        27
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        34,
+        27
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        35,
+        27
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        36,
+        27
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        3,
+        28
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        4,
+        28
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        5,
+        28
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        6,
+        28
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        7,
+        28
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        8,
+        28
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        9,
+        28
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        10,
+        28
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        11,
+        28
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        12,
+        28
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        13,
+        28
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        14,
+        28
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        15,
+        28
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        20,
+        28
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        21,
+        28
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        22,
+        28
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        23,
+        28
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        24,
+        28
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        25,
+        28
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        26,
+        28
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        27,
+        28
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        28,
+        28
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        29,
+        28
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        30,
+        28
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        31,
+        28
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        32,
+        28
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        33,
+        28
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        34,
+        28
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        35,
+        28
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        36,
+        28
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        3,
+        29
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        4,
+        29
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        5,
+        29
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        6,
+        29
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        7,
+        29
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        8,
+        29
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        9,
+        29
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        10,
+        29
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        11,
+        29
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        12,
+        29
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        13,
+        29
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        14,
+        29
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        15,
+        29
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        21,
+        29
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        22,
+        29
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        23,
+        29
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        24,
+        29
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        25,
+        29
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        26,
+        29
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        27,
+        29
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        28,
+        29
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        29,
+        29
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        30,
+        29
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        31,
+        29
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        32,
+        29
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        33,
+        29
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        34,
+        29
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        35,
+        29
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        36,
+        29
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        3,
+        30
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        4,
+        30
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        5,
+        30
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        6,
+        30
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        7,
+        30
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        8,
+        30
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        9,
+        30
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        10,
+        30
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        11,
+        30
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        12,
+        30
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        13,
+        30
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        14,
+        30
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        15,
+        30
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        21,
+        30
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        22,
+        30
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        23,
+        30
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        24,
+        30
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        25,
+        30
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        26,
+        30
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        27,
+        30
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        28,
+        30
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        29,
+        30
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        30,
+        30
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        31,
+        30
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        32,
+        30
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        33,
+        30
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        34,
+        30
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        35,
+        30
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        36,
+        30
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        3,
+        31
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        4,
+        31
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        5,
+        31
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        6,
+        31
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        7,
+        31
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        8,
+        31
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        9,
+        31
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        10,
+        31
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        11,
+        31
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        12,
+        31
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        13,
+        31
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        14,
+        31
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        15,
+        31
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        21,
+        31
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        22,
+        31
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        23,
+        31
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        24,
+        31
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        25,
+        31
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        26,
+        31
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        27,
+        31
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        28,
+        31
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        29,
+        31
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        30,
+        31
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        31,
+        31
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        32,
+        31
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        33,
+        31
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        34,
+        31
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        35,
+        31
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        36,
+        31
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        3,
+        32
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        4,
+        32
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        5,
+        32
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        6,
+        32
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        7,
+        32
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        8,
+        32
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        9,
+        32
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        10,
+        32
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        11,
+        32
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        12,
+        32
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        13,
+        32
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        14,
+        32
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        15,
+        32
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        16,
+        32
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        21,
+        32
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        22,
+        32
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        23,
+        32
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        24,
+        32
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        25,
+        32
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        26,
+        32
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        27,
+        32
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        28,
+        32
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        29,
+        32
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        30,
+        32
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        31,
+        32
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        32,
+        32
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        33,
+        32
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        34,
+        32
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        35,
+        32
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        36,
+        32
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        3,
+        33
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        4,
+        33
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        5,
+        33
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        6,
+        33
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        7,
+        33
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        8,
+        33
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        9,
+        33
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        10,
+        33
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        11,
+        33
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        12,
+        33
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        13,
+        33
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        14,
+        33
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        15,
+        33
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        16,
+        33
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        21,
+        33
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        22,
+        33
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        23,
+        33
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        24,
+        33
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        25,
+        33
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        26,
+        33
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        27,
+        33
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        28,
+        33
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        29,
+        33
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        30,
+        33
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        31,
+        33
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        32,
+        33
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        33,
+        33
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        34,
+        33
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        35,
+        33
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        36,
+        33
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        3,
+        34
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        4,
+        34
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        5,
+        34
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        6,
+        34
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        7,
+        34
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        8,
+        34
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        9,
+        34
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        10,
+        34
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        11,
+        34
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        12,
+        34
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        13,
+        34
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        14,
+        34
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        15,
+        34
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        16,
+        34
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        21,
+        34
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        22,
+        34
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        23,
+        34
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        24,
+        34
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        25,
+        34
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        26,
+        34
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        27,
+        34
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        28,
+        34
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        29,
+        34
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        30,
+        34
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        31,
+        34
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        32,
+        34
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        33,
+        34
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        34,
+        34
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        35,
+        34
+      ],
+      "FloorType": 1
+    },
+    {
+      "Pos": [
+        36,
+        34
+      ],
+      "FloorType": 1
+    }
+  ],
+  "TileObject": [
+    {
+      "Pos": [
+        19,
+        42
+      ],
+      "ChunkType": 100
+    },
+    {
+      "Pos": [
+        3,
+        14
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        3,
+        21
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        3,
+        27
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        3,
+        36
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        5,
+        31
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        7,
+        18
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        7,
+        24
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        8,
+        14
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        8,
+        28
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        8,
+        33
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        11,
+        19
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        11,
+        24
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        12,
+        15
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        12,
+        29
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        12,
+        34
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        14,
+        26
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        19,
+        15
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        20,
+        23
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        20,
+        28
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        22,
+        13
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        22,
+        33
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        24,
+        24
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        24,
+        30
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        25,
+        16
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        27,
+        13
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        28,
+        21
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        28,
+        30
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        28,
+        34
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        30,
+        17
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        30,
+        26
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        31,
+        23
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        32,
+        13
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        32,
+        33
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        35,
+        15
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        35,
+        20
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        35,
+        25
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        35,
+        30
+      ],
+      "ChunkType": 55
+    },
+
+    {
+      "Pos": [
+        35,
+        36
+      ],
+      "ChunkType": 55
+    },
+    {
+      "Pos": [
+        4,
+        31
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        5,
+        24
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        5,
+        34
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        6,
+        17
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        7,
+        22
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        7,
+        27
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        10,
+        16
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        10,
+        22
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        11,
+        27
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        14,
+        22
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        15,
+        30
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        15,
+        33
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        16,
+        32
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        18,
+        18
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        19,
+        13
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        21,
+        19
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        22,
+        30
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        23,
+        17
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        23,
+        21
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        23,
+        26
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        24,
+        19
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        24,
+        28
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        25,
+        34
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        26,
+        20
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        27,
+        27
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        28,
+        24
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        30,
+        34
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        32,
+        20
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        33,
+        17
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        33,
+        29
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        34,
+        23
+      ],
+      "ChunkType": 43
+    },
+
+    {
+      "Pos": [
+        35,
+        34
+      ],
+      "ChunkType": 43
+    },
+    {
+      "Pos": [
+        33,
+        41
+      ],
+      "ChunkType": 110
+    },
+    {
+      "Pos": [
+        14,
+        37
+      ],
+      "ChunkType": 210
+    }
+
+  ],
+  "TileSeed": [],
+  "RandomChunkGenMushroomHarvest": [ -1, -1, -1, -1, -1, -1, -1, -1, -1, -1 ],
+  "RandomChunkGenFlowerHarvest": [ -1, -1, -1, -1, -1, -1, -1, -1, -1, -1 ],
+  "RandomChunkGenWeedHarvest": [ -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1 ],
+  "RandomChunkGenRockHarvest": [ -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1 ],
+  "LastUpdate": 1
+}

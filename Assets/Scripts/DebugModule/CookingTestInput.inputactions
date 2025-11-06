@@ -1,0 +1,34 @@
+{
+    "name": "CookingTestInput",
+    "maps": [
+        {
+            "name": "DebugActions",
+            "id": "67bb9f51-8d08-49d4-a87f-021b0109aeb9",
+            "actions": [
+                {
+                    "name": "DebugAction",
+                    "type": "Button",
+                    "id": "871ff6ae-4580-4835-8f66-fa13d5aef214",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "12fe034b-5d0c-44f5-b24e-8ba571e6c7b3",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "DebugAction",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
